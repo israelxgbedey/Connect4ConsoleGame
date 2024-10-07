@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iuqmbUOPFqc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\markg\\source\\repos\\Connect4ConsoleGame\\Connect4ConsoleGame\\Connect4ConsoleGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\markg\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

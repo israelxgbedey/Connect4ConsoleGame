@@ -1,0 +1,17 @@
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\bin\Debug\net8.0\Connect4ConsoleGame.exe
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\bin\Debug\net8.0\Connect4ConsoleGame.deps.json
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\bin\Debug\net8.0\Connect4ConsoleGame.runtimeconfig.json
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\bin\Debug\net8.0\Connect4ConsoleGame.dll
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\bin\Debug\net8.0\Connect4ConsoleGame.pdb
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\obj\Debug\net8.0\Connect4ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\obj\Debug\net8.0\Connect4ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\obj\Debug\net8.0\Connect4ConsoleGame.AssemblyInfo.cs
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\obj\Debug\net8.0\Connect4ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\obj\Debug\net8.0\Connect4ConsoleGame.dll
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\obj\Debug\net8.0\refint\Connect4ConsoleGame.dll
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\obj\Debug\net8.0\Connect4ConsoleGame.pdb
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\obj\Debug\net8.0\Connect4ConsoleGame.genruntimeconfig.cache
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\obj\Debug\net8.0\ref\Connect4ConsoleGame.dll
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\obj\Debug\net8.0\Connect4ConsoleGame.csproj.AssemblyReference.cache
+C:\Users\markg\source\repos\Connect4ConsoleGame\Connect4ConsoleGame\obj\Debug\net8.0\Connect4.BB0FF343.Up2Date
